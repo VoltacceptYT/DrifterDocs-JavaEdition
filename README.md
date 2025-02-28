@@ -1,1 +1,1 @@
-**Launch Script:** ".\data\java_versions\jdk-19\bin\java.exe" --module-path ".\data\libs\javafx-19\" --add-modules javafx.controls,javafx.fxml -cp ".\data\versions\drifterdocs_v1.1\Game.main.jar" net.voltaccept.game.DrifterDocsApp
+**Launch Script:** ".\meta\java_versions\jdk-19\bin\java.exe" --module-path ".\meta\assets\JavaFX\lib" --add-modules javafx.controls,javafx.fxml -cp ".\meta\versions\drifterdocs_v2\Game.main.jar" net.voltaccept.game.DrifterDocsApp
