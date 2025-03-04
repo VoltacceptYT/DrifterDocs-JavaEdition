@@ -1,4 +1,4 @@
-<center><h1>DrifterDocs: JE - The Supperior DrifterDocs</h1></center>
+<center><h1>DrifterDocs: JE - The Superior DrifterDocs</h1></center>
 
 DrifterDocs: JE is an innovative text document application focused on secure and customizable text management. Built using Java, it uses a proprietary custom-encoded text document format, DrifterDocs (.drifterdoc), offering enhanced security and unique functionalities.
 
