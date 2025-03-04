@@ -5,7 +5,7 @@ DrifterDocs: JE is an innovative text document application focused on secure and
 
 ## Features
 
-- **Enhanced Security with Encrypted Text Documents:** DrifterDocs uses robust encryption algorithms to protect sensitive information. Each `.drifterdoc` file is encrypted upon saving. Encryption strength is configurable.
+- **Enhanced Security with Encrypted Text Documents:** DrifterDocs uses robust encryption algorithms to protect sensitive information. Each `.drifterdoc` file is encrypted upon saving.
 
 - **Visually Appealing Themes:** Choose from a selection of pre-set themes designed for readability and visual comfort.
 
