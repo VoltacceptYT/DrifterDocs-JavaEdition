@@ -1,1 +1,17 @@
-**Launch Script:** ".\meta\java_versions\jdk-19\bin\java.exe" --module-path ".\meta\assets\JavaFX\lib" --add-modules javafx.controls,javafx.fxml -cp ".\meta\versions\drifterdocs_v2\Game.main.jar" net.voltaccept.game.DrifterDocsApp
+
+# DrifterDocs: JE
+
+**Drifter Docs: JE** is an innovative Text Document application designed with a focus on custom encoding. Built using **Java**, this application leverages the power of custom-encoded text documents, known as **DrifterDocs (.drifterdoc)**.
+
+
+## Features
+
+- Encrypted Text Documents
+- Cool Themes
+- Multi-Tab Technology
+- Custom File Type (.drifterdoc)
+
+## Feedback
+
+If you have any feedback or ideas, please reach out to us at support@voltaccept.com
+
