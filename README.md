@@ -21,10 +21,6 @@ For support, email support@voltaccept.com
 ## Future Development
 
 - Advanced Search Functionality
-- Collaboration Features
-- Plugin Support
-- Cross-Platform Compatibility
-- Customizable Themes
 - Version History and Autosave
 - Import/Export Functionality
 
