@@ -11,7 +11,7 @@
 - Multi-Tab Technology
 - Custom File Type (.drifterdoc)
 
-## Feedback
+## Support
 
-If you have any feedback or ideas, please reach out to us at support@voltaccept.com
+For support, email support@voltaccept.com
 
