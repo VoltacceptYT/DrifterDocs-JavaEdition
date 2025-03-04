@@ -1,6 +1,6 @@
-<center><h1>DrifterDocs: JE - The Superior DrifterDocs</h1></center>
+# DrifterDocs: JE - The Superior DrifterDocs
 
-DrifterDocs: JE is an innovative text document application focused on secure and customizable text management. Built using Java, it uses a proprietary custom-encoded text document format, DrifterDocs (.drifterdoc), offering enhanced security and unique functionalities.
+DrifterDocs: JE is an innovative text document application focused on secure and customizable text management. Built using Java, it uses a proprietary custom-encoded text document format, DrifterDocs `.drifterdoc`, offering enhanced security and unique functionalities.
 
 
 ## Features
@@ -11,7 +11,7 @@ DrifterDocs: JE is an innovative text document application focused on secure and
 
 - **Multi-Tab Technology for Efficient Workflow:** Manage multiple documents simultaneously with a multi-tab interface.
 
-- **Custom File Type (.drifterdoc):** DrifterDocs uses its own file format (.drifterdoc) for optimal performance and data handling.
+- **Custom File Type:** DrifterDocs uses its own file format `.drifterdoc` for optimal performance and data handling.
 
 
 ## Support
@@ -23,6 +23,3 @@ For support, email support@voltaccept.com
 - Advanced Search Functionality
 - Version History and Autosave
 - Import/Export Functionality
-
-
-Download DrifterDocs and experience secure and personalized text editing.
